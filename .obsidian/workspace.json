@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "f95dda8594cb2e0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d113ec4a3ccdc4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "156edcf55ab1974c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bootloader/bootloader.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bootloader"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b12f56972a7fd419",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b490a191982e78a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b07f7903b1f38e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2f1c5e55d28e9479",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e08530ec6ea41aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c7ad1ad5aacac420",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c28aa06a3dc3ad6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8766b3f44a530bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1e623f95805e1b03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7129e97f8942f4b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c45d8c0214a3c9f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bootloader/bootloader.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "bootloader 的大纲"
+            }
+          },
+          {
+            "id": "b79cc16dc2f4d13a",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "156edcf55ab1974c",
+  "lastOpenFiles": [
+    "bootloader/tutor/OTA_bemfa.com/UserApplication_v1/Project.uvguix.12409",
+    "bootloader/tutor/OTA_bemfa.com/UserApplication_v1/Project.uvguix.12409.12409.tmp",
+    "bootloader/tutor/OTA_bemfa.com/UserApplication_v1/Project.uvoptx.12409.tmp",
+    "bootloader/tutor/OTA_bemfa.com/UserApplication_v1/Project.uvprojx.12409.tmp",
+    "bootloader/tutor/OTA_bemfa.com/~$云OTA说明书.docx",
+    "img/PixPin_2025-09-26_11-04-01 1.png",
+    "img/PixPin_2025-09-26_11-04-01.png",
+    "img/PixPin_2025-09-26_10-46-09.png",
+    "img/PixPin_2025-09-26_10-35-14.png",
+    "bootloader/bootloader.md",
+    "img"
+  ]
+}
